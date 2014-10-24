@@ -1,0 +1,26 @@
+{
+  "name": "WinkDown",
+  "version": "0.0.1",
+  "description": "Allows the downloading of photos from WinkFlash through the use of screen scraping.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onlinebydesign/winkdown.git"
+  },
+  "keywords": [
+    "WinkFlash",
+    "Screen",
+    "Scraping",
+    "Image",
+    "Download"
+  ],
+  "author": "Online By Design LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onlinebydesign/winkdown/issues"
+  },
+  "homepage": "https://github.com/onlinebydesign/winkdown"
+}
